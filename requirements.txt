@@ -1,0 +1,19 @@
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.8.4
+seaborn==0.13.2
+scipy==1.12.2
+statsmodels==0.14.0
+scikit-learn==1.5.0
+shapely==2.1.0
+geopandas==0.14.0
+telethon ==1.28.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+dotenv==1.0.0
+
+
+
+# Note: The versions specified here are examples and may not reflect the latest versions available.
+
