@@ -51,6 +51,10 @@ results/
 cleaned_data/
 normalized_data/
 lableled_data/
+# Ignore CONLL and data output
+*.conll
+data/
+# Ignore model files
 
 # Ignore test coverage and pytest cache
 htmlcov/
