@@ -19,6 +19,7 @@ venv.bak/
 # exclude  notebooks specific file
 notebooks/telegram_scrapper.ipynb
 
+
 # Environment and config files
 *.env
 *.env.*
@@ -30,6 +31,8 @@ notebooks/telegram_scrapper.ipynb
 # OS-generated files
 .DS_Store
 Thumbs.db
+# ignore session files
+*.session
 
 # Logs and temporary files
 *.log
