@@ -16,6 +16,8 @@ env.bak/
 venv.bak/
 # Virtual environment
 .desvenv/
+# exclude  notebooks specific file
+notebooks/telegram_scrapper.ipynb
 
 # Environment and config files
 *.env
@@ -36,6 +38,8 @@ Thumbs.db
 
 # Data files - ignore raw data, but track processed if needed
 data/
+notebooks/data/
+# Ignore raw data files, but keep processed data
 !data/README.md  # <- if you have a README describing data, keep it
 
 # Ignore output or results folders if you generate them
